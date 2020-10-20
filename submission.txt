@@ -1,4 +1,4 @@
-the hostname:  
-username: 
-password: 
-port: 
+the hostname:  Mysql@localhost:3306
+username: root
+password: BubbyBubby1*
+port: 1433
